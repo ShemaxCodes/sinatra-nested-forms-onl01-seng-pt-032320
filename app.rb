@@ -7,6 +7,10 @@ module FormsLab
     
     get '/' do 
       
-  end 
+    end 
+    
+    get '/new' do 
+      
+    end 
   end
 end
