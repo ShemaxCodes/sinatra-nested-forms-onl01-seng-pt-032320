@@ -7,5 +7,3 @@ require 'sinatra/base'
 require 'sinatra/reloader'
 
 require_all './app'
-require_relative './app/models/pirate.rb'
-require_relative './app/models/ship.rb'
